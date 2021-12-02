@@ -1,10 +1,10 @@
-# "React Router v6 - Refactoring the React JS Blog"
+# "React Router v6 - Upgrade & Refactor Tutorial"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
 
-This repository shares the code applied during the [Youtube tutorial]().
+This repository shares the code applied during the [Youtube tutorial](https://youtu.be/XBRLVRjZ3CQ).
 
 The tutorial is part of a [Learn React Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp) on my channel.
 
